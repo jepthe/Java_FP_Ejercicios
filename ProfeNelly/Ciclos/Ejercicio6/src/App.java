@@ -3,6 +3,7 @@ no sea 1) y el máximo común divisor de los dos números dados por el usuario. 
 números 18 y 6, el mínimo común divisor de ellos es 2 y el máximo común divisor es 6. Si consideramos el 7 y el 
 21, el mínimo común divisor de ellos es 7 y el máximo común divisor es también 7. Si consideramos el 13 y el 7, 
 no existe un mínimo común divisor de ellos, ni un máximo común divisor*/
+
 import java.util.Scanner;
 public class App {
     public static void main(String[] args) throws Exception {
